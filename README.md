@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Filip-Peric
 - 💼 I'm currently working as a Information Technology Systems Technician Apprentice in my 1st year at GrECo International Holding AG
-- ✨ I'm trying to become a DevOps engineer
+- ✨ I'm learning to become a DevOps engineer
 - 📫 How to reach me: filip.peric05.2007@gmail.com
